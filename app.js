@@ -1,10 +1,8 @@
-var express = require('express');
-var app = express();
+//ex[ress
+const express = require('express');
+const app = express();
+const port = 18273;
 
-app.use(express.static("views/"))
-app.set('view engine', 'ejs');
-app.get("/", function (req, res) {
-    res.render("index")
-});
+app.get('/', (req, res) => res.send('Yurika ON'));
 
-app.listen(8080)
+app.listen(port, () => console.log(`Example app listening at http://localhost:${port}`));
