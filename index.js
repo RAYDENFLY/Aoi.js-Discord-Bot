@@ -18,7 +18,7 @@ bot.status({
 bot.status({
   text: "RAYDENFLY",
   type: "COMPETING",
-  status: "dnd",
+  status: "idle",
   time: 12
 })
 bot.onMessage() // Allows Commands to Executed
