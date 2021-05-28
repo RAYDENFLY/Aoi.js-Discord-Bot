@@ -9,3 +9,5 @@ di buat menggunakan API Aoi.js
 **How to run**
 1. `npm i`
 2. `npm start` / `node index.js`
+
+**ingin menjadi contributors** : bantu saya dalam mengembangkan command ini
