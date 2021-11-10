@@ -13,5 +13,6 @@ di buat menggunakan API Aoi.js
 **ingin menjadi contributors** : bantu saya dalam mengembangkan command ini
 
 **DOCS**
-[AOI](https://aoi.js.org/)
+[AOI.JS](https://aoi.js.org/)
+[GITHUB](https://github.com/aoijs/aoi.js)
 ![image](https://user-images.githubusercontent.com/71966811/141099760-b5075265-3425-4206-9d03-05e808b7590c.png)
